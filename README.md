@@ -1,7 +1,8 @@
 # Drpepsi-trojan
 This malware can wipe data and kill the computer.
 it Only works in Windows xp and 2003 windows and net framework 3.5
-download at your own risk.
+download at your own risk. if you check yes to like pepsi then nothing will happen. if nah then it can turn the screen black and Kill the MBR.
+Dont run these program if you see them by yourself.
 # Image of the trojan.
 ![thumbnail_image0](https://github.com/user-attachments/assets/814c5c29-ce2f-48a6-a276-a7cac390158f)
 # Where do i get rid of it🤔

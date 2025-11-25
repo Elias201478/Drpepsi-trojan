@@ -32,3 +32,7 @@ If successful, Windows should load normally.
 MiniTool Partition Wizard and AOMEI Partition Assistant offer GUI-based options to rebuild the MBR
 
 These can be easier if you’re not comfortable with command-line tools.
+
+# does it work in every version🤔
+no it doesnt work in windows 11 windows 10 windws 7 and  windows vista.
+so it works in windows xp and windows 2003.
